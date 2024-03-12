@@ -1,0 +1,11 @@
+#header{
+    background-color: purple;
+}
+#branding h1{
+    color: white;
+    font-family: Pacifico;
+    font-weight: bolder;
+}
+.module caption{
+    background-color: purple;
+}
